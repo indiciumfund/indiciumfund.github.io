@@ -1,0 +1,16 @@
+<svg id="Group_5" data-name="Group 5" xmlns="http://www.w3.org/2000/svg" viewBox="544 477 66 7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #51ddff;
+        opacity: 0.2;
+      }
+
+      .cls-2 {
+        fill: #2baece;
+      }
+    </style>
+  </defs>
+  <path id="Path_16" data-name="Path 16" class="cls-1" d="M0,0H36.363V7L0,0Z" transform="translate(573.637 477)"/>
+  <path id="Path_15" data-name="Path 15" class="cls-2" d="M0,0H66L0,7Z" transform="translate(544 477)"/>
+</svg>
